@@ -1,5 +1,5 @@
 exports[`<Routes /> renders correctly 1`] = `
-<div>
+<styled.div>
   <Header />
   <Match
     component={[Function]}
@@ -15,5 +15,5 @@ exports[`<Routes /> renders correctly 1`] = `
     pattern="/about" />
   <Miss
     component={[Function]} />
-</div>
+</styled.div>
 `;
